@@ -1,0 +1,143 @@
+header{
+    text-align: right;
+    background-image: url(images/1558765388_1.jpg);
+    background-size: cover;
+    height: 300px;
+    
+    background-repeat: no-repeat;
+  
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color:white;
+}
+.s{
+    border: 5px solid black;
+     background-image:url(images/OIP.jpg);
+      background-size: cover;
+    background-repeat: no-repeat;
+      display: flex;
+    flex-direction: column;
+    height: 400px;
+    color:white;
+    font-family: Sans-serif;
+    margin-bottom: 200px;
+    
+  
+    
+}
+.a{
+    font-size: 35px;
+}
+
+body{
+     background-image: linear-gradient(grey,lightgreen);
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+}
+.v{
+   font-size:50px ; 
+   text-align: center;
+   
+}
+.l{
+    text-align: right;
+}
+.x{
+    border: 5px solid black;
+    
+     background-image: url(images/OIG2.jpg);
+      background-size: cover;
+    background-repeat: no-repeat;
+      display: flex;
+    flex-direction: column;
+    height: 400px;
+    color:white;
+    font-family: Sans-serif;
+    margin-bottom: 200px;
+     
+}
+.no{
+    position: relative;
+    top: 130px;
+}
+.y{ border: 5px solid black;
+    
+     background-image: url(images/OIG4.tID1o.jpg);
+      background-size: cover;
+    background-repeat: no-repeat;
+      display: flex;
+    flex-direction: column;
+    height: 400px;
+    color:white;
+    font-family: Sans-serif;
+    margin-bottom: 200px;
+}
+.q{
+    border: 5px solid black;
+    
+     background-image:url(images/dichondra_repens_scottsdale_bh_res_fagg.jpg);
+      background-size: cover;
+    background-repeat: no-repeat;
+      display: flex;
+    flex-direction: column;
+    height: 400px;
+    color:white;
+    font-family: Sans-serif;
+    margin-bottom: 200px;
+}
+.p{
+    border: 5px solid black;
+    
+     background-image: url(images/b5tzgj---c1200x630x0sx485s--061fceb29651c53c699b9bc1d094bc01.jpg);
+      background-size: cover;
+    background-repeat: no-repeat;
+      display: flex;
+    flex-direction: column;
+    height: 400px;
+    color:white;
+    font-family: Sans-serif;
+    margin-bottom: 200px;
+}
+.j{
+     border: 5px solid black;
+    
+     background-image:url(images/зображення_viber_2026-10-31_21-25-06-686.jpg);
+      background-size: cover;
+    background-repeat: no-repeat;
+      display: flex;
+    flex-direction: column;
+    height: 400px;
+    color:white;
+    font-family: Sans-serif;
+    margin-bottom: 200px;
+}
+.u{border: 5px solid black;
+    
+     background-image:url(images/зображення_viber_2026-10-31_21-35-49-114.jpg);
+      background-size: cover;
+    background-repeat: no-repeat;
+      display: flex;
+    flex-direction: column;
+    height: 400px;
+    color:white;
+    font-family: Sans-serif;
+    margin-bottom: 200px;
+}
+body{
+    border-radius: 20px;
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    color: green;
+}
+.das{
+    font-size: 25px;
+}
